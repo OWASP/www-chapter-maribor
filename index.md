@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Maribor
+title: OWASP Maribor1
 tags: example-tag
 region: Europe
 
