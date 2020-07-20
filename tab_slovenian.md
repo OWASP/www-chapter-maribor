@@ -8,7 +8,7 @@ tags: maribor
 
 # OWASP (SI)
 
-OWASP je neprofitna svetovna fundacija, katere cilj je opozoriti na pomen kibernetske varnosti, varnosti spletnih aplikacij, varnega razvoja aplikacij, varnega razvoja programske opreme (SecDevOps), mobilnih aplikacij itd. Poslanstvo je širiti in omogočiti prost dostop do znanja. Vsi OWASP dokumenti, orodja, videoposnetki, diapozitivi, podcasti itd., so brezplačni in jih lahko uporabljajo vsi, ki jih zanima izboljšanje varnosti aplikacij.
+OWASP je svetovna neprofitna fundacija, katere cilj je opozoriti na pomen kibernetske varnosti, varnosti spletnih aplikacij, varnega razvoja aplikacij, varnega razvoja programske opreme (SecDevOps), mobilnih aplikacij itd. Poslanstvo je širiti in omogočiti prost dostop do znanja. Vsi OWASP dokumenti, orodja, videoposnetki, diapozitivi, podcasti itd., so brezplačni in jih lahko uporabljajo vsi, ki jih zanima izboljšanje varnosti aplikacij.
 
 ## OWASP Maribor
 
