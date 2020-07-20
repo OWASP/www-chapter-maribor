@@ -1,5 +1,5 @@
 ---
-title: Supporters
+title: sponsors
 layout: null
 tab: true
 order: 3
