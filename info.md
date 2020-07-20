@@ -1,2 +1,2 @@
 ### Chapter Information
-* OWASP Maribor
+* OWASP Maribor!
