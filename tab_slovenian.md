@@ -1,5 +1,5 @@
 ---
-title: OWASP (SI)
+title: slovenian
 layout: null
 tab: true
 order: 4
