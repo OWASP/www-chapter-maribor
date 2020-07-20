@@ -1,5 +1,5 @@
 ---
-title: slovenian
+title: Slovensko
 layout: null
 tab: true
 order: 4
