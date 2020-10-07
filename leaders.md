@@ -1,4 +1,4 @@
 ### Leaders
 
 - [Milan Gabor](mailto:milan.gabor@owasp.org)
-- [Gregor Spagnolo](mailto:gregor@ssrd.io)
+- [Gregor Spagnolo](mailto:gregor.spagnolo@owasp.org)
