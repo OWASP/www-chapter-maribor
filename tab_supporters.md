@@ -1,12 +1,12 @@
 ---
-title: Sponsors
+title: Supporters
 layout: null
 tab: true
 order: 3
 tags: maribor
 ---
 
-## Supporters
+## Supprters
 
 OWASP Maribor kindly thanks the following companies for supporting us:
 
