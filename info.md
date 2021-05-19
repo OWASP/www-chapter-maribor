@@ -1,2 +1,4 @@
 ### Chapter Information
-* OWASP Maribor!
+* OWASP Maribor
+
+* [Meetup](https://www.meetup.com/maribor-owasp-meetup-group/)
