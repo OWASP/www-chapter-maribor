@@ -3,9 +3,7 @@ layout: col-sidebar
 title: OWASP Maribor
 tags: maribor
 meetup group: maribor-owasp-meetup-group
-
 region: Europe
-
 
 ---
 
@@ -16,6 +14,15 @@ region: Europe
 Welcome to OWASP Maribor chapter homepage. We are located in a beautiful town in the south-east of Slovenia.
 
 Our aim is to organize periodic events to share interesting topics regarding cybersecurity, application development, secure software development (SecDevOps), mobile applications, etc.
+
+
+### Upcoming Meetings
+
+We schedule our meetings on the [Maribor Meetup Group](https://www.meetup.com/maribor-owasp-meetup-group)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Participation
 

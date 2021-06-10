@@ -4,12 +4,23 @@ layout: null
 tab: true
 order: 2
 tags: maribor
+meetup group: maribor-owasp-meetup-group
+
 ---
 
 ## Events
 
-### Upcoming
-**[XMAS challenge](https://1337.owasp.si)** Not even COVID-19 could prevent to happen this also this year. Have fun! 
+### Upcoming Meetings
+
+We schedule our meetings on the [Maribor Meetup Group](https://www.meetup.com/maribor-owasp-meetup-group)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
 
 ### Past
+
+**[XMAS challenge](https://1337.owasp.si)** Not even COVID-19 could prevent to happen this also this year. Have fun! 
+
 **[CyberNight](https://cybernight.org)**  In the spirit of Cyber Security Awareness Month, we prepared a [CyberNight](https://cybernight.org) event that happened on the **2nd of October 2020**. The event featured the business part and the CTF competition.
