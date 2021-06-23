@@ -14,6 +14,8 @@ meetup group: maribor-owasp-meetup-group
 
 We schedule our meetings on the [Maribor Meetup Group](https://www.meetup.com/maribor-owasp-meetup-group)
 
+**[Napadi na OT okolja in izzivi s katerimi se soočamo pri obrambi](https://www.meetup.com/maribor-owasp-meetup-group/events/278974243/)**
+
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
