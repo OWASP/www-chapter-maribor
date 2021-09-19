@@ -10,6 +10,8 @@ meetup group: maribor-owasp-meetup-group
 
 ## Events
 
+**[CyberNight](https://cybernight.org)**  In the spirit of cybermonth we are preparing on-premise competition one the **10th of October 2021**  [get your ticket here](https://www.eventbrite.com/e/cyber-night-2021-tickets-173277697257)
+
 ### Upcoming Meetings
 
 We schedule our meetings on the [Maribor Meetup Group](https://www.meetup.com/maribor-owasp-meetup-group)
