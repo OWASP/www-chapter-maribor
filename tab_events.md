@@ -30,6 +30,8 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 **[Cyber hygiene](https://www.meetup.com/maribor-owasp-meetup-group/events/285244587/)**  **13th of April 2022** 
 
+**[Girls in Cyber](https://www.eventbrite.com/e/2-on-line-delavnica-na-temo-kibernetske-varnosti-cybergirlssi-tickets-271945013857)**   **30th of March 2022** 
+
 **[What is cyber](https://www.meetup.com/maribor-owasp-meetup-group/events/284243055/)**   **9th of March 2022** 
 
 **[XMAS challenge](https://1337.owasp.si)** 1 month each day new challange
