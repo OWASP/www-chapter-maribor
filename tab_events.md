@@ -10,7 +10,7 @@ meetup group: maribor-owasp-meetup-group
 
 ## Events
 
-**[CyberNight](https://cybernight.org)** **7.10.2022**
+
 
 ### Upcoming Meetings
 
@@ -24,6 +24,12 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 
 ### Past
+**[OWASP meetup Ljubljana](https://www.meetup.com/maribor-owasp-meetup-group/events/289874825/)** **24.11.2022**
+
+**[Cyber Security Workshop on OWASP](https://www.meetup.com/maribor-owasp-meetup-group/events/289813557/)** **17.11.2022**
+
+**[CyberNight](https://cybernight.org)** **7.10.2022**
+
 **[OWASP top 10](https://www.meetup.com/maribor-owasp-meetup-group/events/286088739/)**   **16th of June 2022** 
 
 **[Proxy & OWASP top 10](https://www.meetup.com/maribor-owasp-meetup-group/events/285689653/)**   **18th of May 2022** 
