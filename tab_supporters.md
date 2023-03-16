@@ -6,7 +6,7 @@ order: 3
 tags: maribor
 ---
 
-## Supprters
+## Supporters
 
 OWASP Maribor kindly thanks the following companies for supporting us:
 
