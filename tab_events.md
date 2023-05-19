@@ -24,6 +24,26 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 
 ### Past
+**[MS Defender](https://www.meetup.com/maribor-owasp-meetup-group/events/293345394/)** **18 of May 2022**
+
+**[CTF platforms](https://www.meetup.com/maribor-owasp-meetup-group/events/289874825/)** **24 of November 2022**
+
+**[OWASP ranlnjivosti part 2](https://www.meetup.com/maribor-owasp-meetup-group/events/289813557/)** **17 of November 2022**
+
+**[CyberNight](https://www.meetup.com/maribor-owasp-meetup-group/events/288814564/)** **7 of October 2022**
+
+**[OWASP ranljivosti](https://www.meetup.com/maribor-owasp-meetup-group/events/286088739/)** **16 of June 2022**
+
+**[OWASP orodja](https://www.meetup.com/maribor-owasp-meetup-group/events/285689653/)** **18 of May 2022**
+
+**[Cyber higiena](https://www.meetup.com/maribor-owasp-meetup-group/events/285244587/)** **13 of April 2022**
+
+**[On-line delavnica na temo kibernetske varnosti](https://www.meetup.com/maribor-owasp-meetup-group/events/284243055/)** **9 of March 2022**
+
+**[CyberNight](https://www.meetup.com/maribor-owasp-meetup-group/events/281188177/)** **8 of October 2021**
+
+**[Napadi na OT okolja in izzivi s katerimi se soočamo pri obrambi](https://www.meetup.com/maribor-owasp-meetup-group/events/278974243/)** **30 of June 2021**
+
 **[OWASP meetup Ljubljana](https://www.meetup.com/maribor-owasp-meetup-group/events/289874825/)** **24.11.2022**
 
 **[Cyber Security Workshop on OWASP](https://www.meetup.com/maribor-owasp-meetup-group/events/289813557/)** **17.11.2022**
