@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP Maribor
 tags: maribor
 meetup-group: maribor-owasp-meetup-group
+country: Slovenia
 region: Europe
 
 ---
