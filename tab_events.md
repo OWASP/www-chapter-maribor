@@ -22,6 +22,8 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 
 ### Past
+**[Lov na Zlobce](https://www.meetup.com/maribor-owasp-meetup-group/events/303916690)** **22 of October 2024**
+
 **[MS Defender](https://www.meetup.com/maribor-owasp-meetup-group/events/293345394/)** **18 of May 2023**
 
 **[CTF platforms](https://www.meetup.com/maribor-owasp-meetup-group/events/289874825/)** **24 of November 2022**
