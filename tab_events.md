@@ -22,6 +22,8 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 
 ### Past
+**[Threat modeling](https://www.meetup.com/maribor-owasp-meetup-group/events/305019860/)** **16 of December 2024**
+
 **[Lov na Zlobce](https://www.meetup.com/maribor-owasp-meetup-group/events/303916690)** **22 of October 2024**
 
 **[MS Defender](https://www.meetup.com/maribor-owasp-meetup-group/events/293345394/)** **18 of May 2023**
