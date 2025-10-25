@@ -1,0 +1,24 @@
+leaders:
+  - name: Milan Gabor
+    email: milan.gabor@owasp.org
+  - name: Gregor Spagnolo
+    email: gregor.spagnolo@owasp.org
+    github: GregorSpagnolo
+location:
+  country: Slovenia
+  country_code: SI
+  region: Maribor
+  city: Maribor
+  latitude: 46.5576439
+  longitude: 15.6455854
+meetup_group: maribor-owasp-meetup-group
+name: OWASP Maribor
+repositories:
+  - name: www-chapter-maribor
+    url: https://github.com/OWASP/www-chapter-maribor
+    description: OWASP Foundation Web Repository
+tags:
+  - maribor
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-maribor
