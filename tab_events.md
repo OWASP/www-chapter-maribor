@@ -22,6 +22,8 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 
 ### Past
+**[CyberNihgt 2025](https://www.meetup.com/maribor-owasp-meetup-group/events/305019860/)** **24 of October 2025**
+
 **[Threat modeling](https://www.meetup.com/maribor-owasp-meetup-group/events/305019860/)** **16 of December 2024**
 
 **[Lov na Zlobce](https://www.meetup.com/maribor-owasp-meetup-group/events/303916690)** **22 of October 2024**
