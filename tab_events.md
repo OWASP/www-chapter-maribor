@@ -19,9 +19,11 @@ We schedule our meetings on the [Maribor Meetup Group](https://www.meetup.com/ma
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
-**[OWASP AI meetup](https://www.startup.si/sl-si/dogodek/razvoj-ai-resitev-brez-tveganj-varnost-skladnost-owasp)** **16 of June 2026**
+
 
 ### Past
+**[OWASP AI meetup - Milan Gabor and Benjamin Lesjak](https://www.startup.si/sl-si/dogodek/razvoj-ai-resitev-brez-tveganj-varnost-skladnost-owasp)** **16 of June 2026**
+
 **[CyberNihgt 2025](https://www.meetup.com/maribor-owasp-meetup-group/events/305019860/)** **24 of October 2025**
 
 **[Threat modeling](https://www.meetup.com/maribor-owasp-meetup-group/events/305019860/)** **16 of December 2024**
